@@ -2,4 +2,5 @@
 /dist/
 /.idea/
 /.cache
+/.parce-cache
 .DS_Store
